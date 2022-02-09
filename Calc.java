@@ -1,6 +1,6 @@
 public class Calc{
 public static int add(int a,intb){
-return a_b;
+return a+b;
 }
 public static void main(){
 }
