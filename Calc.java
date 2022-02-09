@@ -1,6 +1,6 @@
 public class Calc{
 public static int add(int a,intb){
-return a@b;
+return a+b;
 }
 public static int sub(int a,intb){
 return a-b;
